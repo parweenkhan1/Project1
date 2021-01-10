@@ -1,0 +1,47 @@
+.splash {
+  background: url("G1.jpg") no-repeat 70% 20% local;
+  background-size: cover;
+  color: #fff;
+  margin-bottom: 0;
+  overflow: hidden;
+  padding-top: 20em;
+  padding-bottom: 30em;
+  position: relative;
+  text-shadow: 1px 1px 5px rgba(0,0,0,.4);
+  z-index: 9999;
+
+}
+
+.jumbotron {
+    font-family: Montserrat, sans-serif;
+}
+.content {
+	 background-color: rgba(0,0,255,.2);
+ }
+ .h2 {
+	 text-transform: uppercase;
+	 font-weight: 600;
+	 margin-top: 10px;
+         text-align: center;
+ }
+.panel {
+	 max-width: 50%;
+	 margin: auto;
+	 margin-bottom: 20px;
+ }
+ h3{
+     text-align: center;
+ }
+ .panel-heading h3{
+     text-align: left;
+ }
+ .panel-footer{
+     font-family: monospace ,sans-serif ;
+     font-size: 20px;
+ }
+ footer{
+     background-color: rgba(0,0,0,0.2);
+     color:white;
+     text-align:center;
+     font-size: 20px;
+ }
